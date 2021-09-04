@@ -2,6 +2,8 @@
 
 Gas 对Thinkium来说至关重要，它是Thinkium运行的基础之一，每一笔发生在Thinkium上的交易均需要支付gas费用。
 
+
+
 ### 什么是Gas
 
 Gas 是指衡量在Thinkum网络上执行特定操作所需的计算工作量的单位。
@@ -10,6 +12,8 @@ Gas 是指衡量在Thinkum网络上执行特定操作所需的计算工作量的
 
 Gas 费用以Thinkium的本地货币TKM 支付。Gas 价格以 gwei 表示，它本身就是 TKM 的面额 - 每个 gwei 等于 0.000000001 TKM (10 -9 TKM)。例如，与其说你的 gas 花费 0.000000001 TKM，你可以说你的 gas 花费 1 gwei。“gwei”这个词本身的意思是“giga-wei”，它等于1,000,000,000 wei。Wei 本身是 TKM 的最小单位。
 
+
+
 ### Gas费用计算
 
 普通转账：固定收取0.01 TKM
@@ -17,6 +21,8 @@ Gas 费用以Thinkium的本地货币TKM 支付。Gas 价格以 gwei 表示，它
 合约交易：根据合约实际消耗的步骤计算
 
 跨链转账：根据跨链系统合约实际消耗的步骤计算（约0.08 TKM）
+
+
 
 ### 什么是GAS LIMIT？
 
