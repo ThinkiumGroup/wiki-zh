@@ -14,19 +14,19 @@ GitHub 源码：[https://github.com/ThinkiumGroup/zombie-game](https://github.co
 
 僵尸军团
 
-![](https://thinkium-wiki.s3.ap-northeast-1.amazonaws.com/contract/zombie-1.png)
+![](https://thinkiumdev.net/res/wiki/contract/zombie-1.png)
 
 
 
 我的僵尸
 
-![](https://thinkium-wiki.s3.ap-northeast-1.amazonaws.com/contract/zombie-2.png)
+![](https://thinkiumdev.net/res/wiki/contract/zombie-2.png)
 
 
 
 基因模拟
 
-![](https://thinkium-wiki.s3.ap-northeast-1.amazonaws.com/contract/zombie-3.png)
+![](https://thinkiumdev.net/res/wiki/contract/zombie-3.png)
 
 
 
