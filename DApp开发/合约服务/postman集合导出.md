@@ -6,5 +6,5 @@
 
 
 
-[下载链接](https://github.com/ThinkiumGroup/wiki-zh/blob/014e835651598b47a32bb41aae6f9f1a3a6f442e/Res/contract-service/contract-service-postman-zh.json)
+[https://github.com/ThinkiumGroup/wiki-zh/blob/014e835651598b47a32bb41aae6f9f1a3a6f442e/Res/contract-service/contract-service-postman-zh.json](https://github.com/ThinkiumGroup/wiki-zh/blob/014e835651598b47a32bb41aae6f9f1a3a6f442e/Res/contract-service/contract-service-postman-zh.json)
 

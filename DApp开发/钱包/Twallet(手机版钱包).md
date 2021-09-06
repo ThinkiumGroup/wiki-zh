@@ -16,7 +16,7 @@ Twallet GitHub 地址： [https://github.com/ThinkiumGroup/Twallet]( https://git
 
 app截图
 
-![](https://thinkium-wiki.s3.ap-northeast-1.amazonaws.com/wallet/twallet.png)
+![](https://thinkiumdev.net/res/wiki/wallet/twallet.png)
 
 
 

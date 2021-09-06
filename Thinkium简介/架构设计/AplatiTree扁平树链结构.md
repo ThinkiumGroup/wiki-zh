@@ -1,4 +1,4 @@
-### “AplatiTree"扁平树链
+### "AplatiTree"扁平树链
 
 Thinkium 设计了“AplatiTree”扁平树链结构，可无限分层。
 
