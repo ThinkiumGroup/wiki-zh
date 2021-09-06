@@ -18,7 +18,7 @@ Thinkium 是一个通过分层多链结构运行的全能公链网络，集成 l
 
 ### 联系我们
 
-[<img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="1" style="zoom:25%;" />]( https://0.plus/Thinkiumofficial)  [<img src="https://thinkiumdev.net/res/wiki/icon/Twitter.png" alt="2" style="zoom:25%;" />](https://twitter.com/Thinkium_Chain)  [<img src="https://thinkiumdev.net/res/wiki/icon/Github.png" alt="3" style="zoom:25%;" />](https://github.com/ThinkiumGroup)  [<img src="https://thinkiumdev.net/res/wiki/icon/reddit.png" alt="4" style="zoom:25%;" />](https://www.reddit.com/r/Thinkium/)  [<img src="https://thinkiumdev.net/res/wiki/icon/medium.png" alt="5" style="zoom:25%;" />](https://thinkiumfoundation.medium.com/thinkium-blockchain-9e03c36fb7af)
+[<img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="1" style="zoom:25%;" />**Btok**]( https://0.plus/Thinkiumofficial)  [<img src="https://thinkiumdev.net/res/wiki/icon/Twitter.png" alt="2" style="zoom:25%;" />**twitter**](https://twitter.com/Thinkium_Chain)  [<img src="https://thinkiumdev.net/res/wiki/icon/Github.png" alt="3" style="zoom:25%;" />**GitHub**](https://github.com/ThinkiumGroup)  [<img src="https://thinkiumdev.net/res/wiki/icon/reddit.png" alt="4" style="zoom:25%;" />**reddit**](https://www.reddit.com/r/Thinkium/)  [<img src="https://thinkiumdev.net/res/wiki/icon/medium.png" alt="5" style="zoom:25%;" />**medium**](https://thinkiumfoundation.medium.com/thinkium-blockchain-9e03c36fb7af)
 
 
 
