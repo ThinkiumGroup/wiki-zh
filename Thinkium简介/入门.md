@@ -18,7 +18,28 @@ Thinkium 是一个通过分层多链结构运行的全能公链网络，集成 l
 
 ### 联系我们
 
-[<img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="1" style="zoom:25%;" />**Btok**]( https://0.plus/Thinkiumofficial)  [<img src="https://thinkiumdev.net/res/wiki/icon/Twitter.png" alt="2" style="zoom:25%;" />**twitter**](https://twitter.com/Thinkium_Chain)  [<img src="https://thinkiumdev.net/res/wiki/icon/Github.png" alt="3" style="zoom:25%;" />**GitHub**](https://github.com/ThinkiumGroup)  [<img src="https://thinkiumdev.net/res/wiki/icon/reddit.png" alt="4" style="zoom:25%;" />**reddit**](https://www.reddit.com/r/Thinkium/)  [<img src="https://thinkiumdev.net/res/wiki/icon/medium.png" alt="5" style="zoom:25%;" />**medium**](https://thinkiumfoundation.medium.com/thinkium-blockchain-9e03c36fb7af)
+<div class="link-list">
+    <a class="link-item" target="_blank" href="https://0.plus/Thinkiumofficial">
+        <img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="" style="zoom:25%;" />
+        <span>Btok</span>
+    </a>
+    <a class="link-item" target="_blank" href="https://twitter.com/Thinkium_Chain">
+        <img src="https://thinkiumdev.net/res/wiki/icon/Twitter.png" alt="" style="zoom:25%;" />
+        <span>twitter</span>
+    </a>
+    <a class="link-item" target="_blank" href="https://github.com/ThinkiumGroup">
+        <img src="https://thinkiumdev.net/res/wiki/icon/Github.png" alt="" style="zoom:25%;" />
+        <span>GitHub</span>
+    </a>
+    <a class="link-item" target="_blank" href="https://www.reddit.com/r/Thinkium">
+        <img src="https://thinkiumdev.net/res/wiki/icon/reddit.png" alt="" style="zoom:25%;" />
+        <span>reddit</span>
+    </a>
+    <a class="link-item" target="_blank" href="https://thinkiumfoundation.medium.com/thinkium-blockchain-9e03c36fb7af">
+        <img src="https://thinkiumdev.net/res/wiki/icon/medium.png" alt="" style="zoom:25%;" />
+        <span>medium</span>
+    </a>
+</div>
 
 
 
@@ -31,4 +52,25 @@ Thinkium 是一个通过分层多链结构运行的全能公链网络，集成 l
 Thinkium public chain将通过官方社交平台宣布授权、推广等合作，开发者和用户将仔细检查，避免损失；
 
 
+<style>
+   .link-list{
+       display: flex;
+       justify-content: flex-start;
+       margin: 20px 0 0;
+       
+   }
+   .link-list > .link-item{
+           display: flex;
+           flex-direction: column;
+           justify-content: center;
+           align-items: center;
+    }
+    .link-list > .link-item:nth-child(n+2){
+        margin-left: 30px;
+    }
+
+    .link-list > .link-item > span{
+            margin-top: 10px;
+    }
+</style>
 
