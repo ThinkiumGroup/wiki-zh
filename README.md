@@ -20,8 +20,8 @@ Thinkium 是一个通过分层多链结构运行的全能公链网络，集成 l
 
 <div class="link-list">
     <a class="link-item" target="_blank" href="https://0.plus/Thinkiumofficial">
-        <img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="" style="zoom:25%;" />
-        <span>Btok</span>
+        <img src="https://thinkiumdev.net/res/wiki/icon/Telegram.png" alt="" style="zoom:25%;" />
+        <span>Telegram</span>
     </a>
     <a class="link-item" target="_blank" href="https://twitter.com/Thinkium_Chain">
         <img src="https://thinkiumdev.net/res/wiki/icon/Twitter.png" alt="" style="zoom:25%;" />
@@ -50,5 +50,4 @@ Thinkium 是一个通过分层多链结构运行的全能公链网络，集成 l
 每个人都必须区分测试环境和主网络环境。在测试环境中生成的资产没有价值。谨防伪币诈骗;
 
 Thinkium public chain将通过官方社交平台宣布授权、推广等合作，开发者和用户将仔细检查，避免损失；
-
 
