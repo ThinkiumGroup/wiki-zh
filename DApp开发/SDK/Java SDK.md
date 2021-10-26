@@ -11,7 +11,7 @@ jdk 版本：1.8
 在执行所有的链上交互接口前，要获取与链的连接实例 web3j。httpService 参数为 rpc地址(注意要使用 v2版本)
 
 ```java
-protected static final Web3j web3j = Web3j.load(new HttpService("http://rpctest.thinkium.org/v2"));
+protected static final Web3j web3j = Web3j.load(new HttpService("http://test.thinkiumrpc.net/v2"));
 ```
 
 

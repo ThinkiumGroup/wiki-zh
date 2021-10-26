@@ -305,7 +305,7 @@ Transaction:
 
 请求示例:
 ```go
-var connection = web3.NewWeb3(providers.NewHTTPProvider("192.168.1.13:8089", 10, false))
+var connection = web3.NewWeb3(providers.NewHTTPProvider("test.thinkiumrpc.net", 10, false))
 from := "0x2c7536e3605d9c16a7a3d7b1898e529396a65c23"
 to := "0x6ea0fefc17c877c7a4b0f139728ed39dc134a967"
 transaction := util.Transaction{

@@ -37,7 +37,7 @@ console.log(web3); // {thk: .., shh: ...} // It's here!
 设置provider:
 
 ```js
-let rpcUrl = 'http://rpctest.thinkium.org';     //rpc test proxy
+let rpcUrl = 'http://test.thinkiumrpc.net';     //rpc test proxy
 web3.setProvider(new web3.providers.HttpProvider(rpcUrl));
 ```
 

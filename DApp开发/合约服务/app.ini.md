@@ -8,8 +8,8 @@ port = ":8101"
 
 
 [rpc]
-;rpc 地址，以下是测试地址，上线要换成线上地址rpcproxy.thinkium.org
-rpc = "rpctest.thinkium.org"
+;rpc 地址，以下是测试地址，上线要换成线上地址proxy.thinkiumrpc.net
+rpc = "test.thinkiumrpc.net"
 
 [encrypt]
 ;key 必须为 16, 24, 32 位
@@ -37,3 +37,4 @@ url = "username:password@tcp(ip:port)/dbName?charset=utf8&parseTime=true&loc=Loc
 **port**: mysql服务端口
 
 **dbName**: 数据库名称
+
