@@ -49,6 +49,14 @@ var balance = account.balance;
 ```
 
 
+## base-chain-id
+使用前需指定base-chain-id，代码如下
+
+```js
+web3.thk.setBaseChainId(60000); // 测试环境
+web3.thk.setBaseChainId(70000); // 生产环境
+```
+
 
 ## 本地方法
 
