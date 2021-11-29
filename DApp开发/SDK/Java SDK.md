@@ -15,6 +15,14 @@ protected static final Web3j web3j = Web3j.load(new HttpService("http://test.thi
 ```
 
 
+## base-chain-id
+使用前需指定base-chain-id，代码如下
+
+```java
+Transaction.chainIdBase = 60000L; // 测试环境
+Transaction.chainIdBase = 70000L; // 生产环境
+```
+
 
 ### 1. 获取账户情况(web3.GetAccount)
 
