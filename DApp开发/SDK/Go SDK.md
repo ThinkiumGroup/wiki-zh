@@ -9,6 +9,14 @@
 go get -u github.com/ThinkiumGroup/web3.go
 
 
+## base-chain-id
+使用前需指定base-chain-id，代码如下
+
+```go
+thk.SetBaseChainId(int64(60000)) // 测试环境
+thk.SetBaseChainId(int64(70000)) // 生产环境
+```
+
 
 ### 1. 获取账户余额(web3.thk.GetBalance)
 
