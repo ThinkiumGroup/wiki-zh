@@ -474,7 +474,7 @@ Output 为.abi 和.bin 生成目录
 | :---------: | :---------: | :------: | :---------------: |
 | Transaction | Transaction |   true   |   交易实体Model   |
 | binContent  |   string    |   true   | 生成的bin文件内容 |
-| parameters  | List<Type>  |   true   |    传入的参数     |
+| parameters  | List:Type  |   true   |    传入的参数     |
 
 响应参数：
 | 参数名 |  类型  | 是否必须 |   含义   |
