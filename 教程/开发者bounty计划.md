@@ -34,7 +34,7 @@ Bounty规则
 
 1、 本项目将支持25个文字教程或视频教程
 
-2、 请将制作完成的教程上传至Github（https://github.com/ThinkiumGroup/wiki/tree/master/bounty），审核通过后视为获得奖励
+2、 请将制作完成的教程上传至Github（https://github.com/AilsaKK/wiki-zh/tree/master/%E6%95%99%E7%A8%8B/%E4%BD%9C%E5%93%81%E5%BE%81%E9%9B%86） 审核通过后视为获得奖励
 
 3、 根据教程的内容和质量，我们将给予教程创作者50U-200U等值的TKM作为奖励
 
