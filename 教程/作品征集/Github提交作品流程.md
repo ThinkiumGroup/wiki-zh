@@ -14,7 +14,7 @@
 
 Github中的文档编辑，需要使用markdown格式，请下载Typora
 
-MD文档编辑器：https://typora.io/
+MD文档编辑器：[https://typora.io/](https://typora.io/)
 
 ![](https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1646288216903.png) 
 
@@ -24,7 +24,7 @@ MD文档编辑器：https://typora.io/
 
 MD文档的编辑非常简单，您可以将文字内容直接输入或者从其他文档复制并粘贴；
 
-如果有图片或者视频内容，请打开链接（ https://www.thinkiumdev.net/Tutorial/File%20Upload.html，密码：bounty2022）上传图片或者视频，完成后，将生成的图片或者视频链接插入到MD文档中
+如果有图片或者视频内容，请打开链接（ [https://www.thinkiumdev.net/Tutorial/File%20Upload.html](https://www.thinkiumdev.net/Tutorial/File%20Upload.html)，密码：bounty2022）上传图片或者视频，完成后，将生成的图片或者视频链接插入到MD文档中
 
 
 
@@ -36,7 +36,7 @@ MD文档的编辑非常简单，您可以将文字内容直接输入或者从其
 
 **第四步：上传文档**
 
-① 编写完成后，打开链接（https://github.com/ThinkiumGroup/wiki/tree/master/Tutorial）点击Fork
+① 编写完成后，打开链接（[https://github.com/ThinkiumGroup/wiki/tree/master/Tutorial](https://github.com/ThinkiumGroup/wiki/tree/master/Tutorial)）点击Fork
 
 ![](https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1646295812926.png)
 
