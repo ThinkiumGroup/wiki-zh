@@ -36,7 +36,7 @@ MD文档的编辑非常简单，您可以将文字内容直接输入或者从其
 
 **第四步：上传文档**
 
-① 编写完成后，打开链接（[https://github.com/ThinkiumGroup/wiki/tree/master/Tutorial](https://github.com/ThinkiumGroup/wiki/tree/master/Tutorial)）点击Fork
+① 编写完成后，打开链接（[https://github.com/ThinkiumGroup/wiki-zh/tree/master/教程/作品征集](https://github.com/ThinkiumGroup/wiki-zh/tree/master/教程/作品征集)）点击Fork
 
 ![](https://s3-us-west-2.amazonaws.com/t-chain-data/dev/1646295812926.png)
 
