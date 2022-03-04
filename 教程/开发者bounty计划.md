@@ -34,7 +34,9 @@ Bounty规则
 
 1、 本项目将支持25个文字教程或视频教程
 
-2、 请将制作完成的教程上传至Github（https://github.com/ThinkiumGroup/wiki/tree/master/bounty），审核通过后视为获得奖励
+2、 请将制作完成的教程上传至Github（[https://github.com/ThinkiumGroup/wiki-zh/tree/master/教程/作品征集](https://github.com/ThinkiumGroup/wiki-zh/tree/master/教程/作品征集)），审核通过后视为获得奖励
+
+3.作品上传完成后，请将您的作品链接，官方discoard群昵称以及TKM钱包地址发送到官方邮箱（bounty@thinkium.net），请务必保障以上信息准确无误，他将作为我们向您发放奖励的凭证。
 
 3、 根据教程的内容和质量，我们将给予教程创作者50U-200U等值的TKM作为奖励
 
